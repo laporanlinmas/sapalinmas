@@ -1,0 +1,19 @@
+import { MetadataRoute } from 'next'
+
+export default function manifest(): MetadataRoute.Manifest {
+  return {
+    name: 'SIPEDAS — Sapa Pedestrian',
+    short_name: 'SIPEDAS',
+    description: 'Sistem Informasi Pedestrian Satlinmas Kabupaten Ponorogo',
+    start_url: '/',
+    display: 'standalone',
+    background_color: '#f0f4f8',
+    theme_color: '#2563eb',
+    icons: [
+      { src: '/assets/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+      { src: '/assets/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'maskable' },
+      { src: '/assets/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
+      { src: '/assets/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+    ],
+  }
+}
