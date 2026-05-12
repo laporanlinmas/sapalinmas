@@ -1,107 +1,272 @@
+```txt
 # ════════════════════════════════════════════════════════════════════════════
-# GRAND DATABASE CHATBOT — SATGAS LINMAS PEDESTRIAN & EKOSISTEM SIPEDAS
-# Kabupaten Ponorogo — Versi 2025
+# GRAND DATABASE CHATBOT — SIPEDAS & SATGAS LINMAS PEDESTRIAN
+# Kabupaten Ponorogo — MASTER KNOWLEDGE BASE 2026
 # ════════════════════════════════════════════════════════════════════════════
 #
-# FORMAT:
-#   • Satu topik = satu paragraf (pisahkan dengan BARIS KOSONG).
-#   • Baris diawali # = komentar, DIABAIKAN chatbot.
-#   • Tulis kata kunci alami yang dipakai warga (nama, jabatan, jam, lokasi).
+# FORMAT DATABASE:
+# • Satu topik = satu paragraf.
+# • Pisahkan antar topik menggunakan BARIS KOSONG.
+# • Gunakan bahasa natural yang biasa dipakai masyarakat.
+# • Optimalkan keyword pencarian chatbot.
+# • Baris diawali # dianggap komentar sistem.
 #
 # ════════════════════════════════════════════════════════════════════════════
 
-# ── IDENTITAS & VISI PROGRAM ─────────────────────────────────────────────────
 
-SIPEDAS adalah singkatan dari Sapa Pedestrian Ponorogo, sebuah sistem informasi digital terpadu yang dibangun untuk mendukung operasional Satgas Linmas Pedestrian di Kabupaten Ponorogo. SIPEDAS bukan sekadar website, melainkan ekosistem cerdas yang menyatukan pemantauan CCTV real-time, peta kerawanan geospasial, manajemen absensi berbasis GPS (geo-fencing), sistem pelaporan aduan masyarakat, dan koordinasi lintas instansi dalam satu platform.
+# ───────────────── IDENTITAS SIPEDAS ─────────────────
 
-Satgas Linmas Pedestrian adalah inovasi strategis pengamanan dan ketertiban masyarakat di bawah kendali Satuan Polisi Pamong Praja (Satpol PP) Kabupaten Ponorogo, khususnya pada Bidang Sumber Daya Aparatur (SDA) dan Perlindungan Masyarakat (Linmas). Program ini diciptakan untuk mengawal wajah baru Ponorogo melalui program Face Off kawasan kota, memastikan trotoar dan jalur pedestrian benar-benar aman, nyaman, tertib, dan inklusif bagi seluruh lapisan masyarakat.
+SIPEDAS adalah singkatan dari Sapa Pedestrian Ponorogo, yaitu sistem informasi digital terpadu yang dibangun untuk mendukung operasional Satgas Linmas Pedestrian Kabupaten Ponorogo. SIPEDAS berfungsi sebagai pusat pengawasan, pengendalian, pelaporan, monitoring keamanan kawasan pedestrian, koordinasi lintas instansi, dan pelayanan informasi masyarakat berbasis digital.
 
-Visi program Satgas Linmas Pedestrian adalah mewujudkan kawasan pedestrian Ponorogo sebagai ruang publik yang humanis, estetik, aman, dan inklusif — menjadi kebanggaan warga dan daya tarik wisatawan. Misi utamanya adalah mengembalikan hak pejalan kaki atas trotoar, menertibkan pelanggaran ketertiban umum secara persuasif, dan membangun ekosistem pengawasan cerdas berbasis teknologi digital.
+SIPEDAS bukan hanya website biasa, tetapi ekosistem smart pedestrian monitoring yang mengintegrasikan CCTV real-time, peta kerawanan geospasial, absensi GPS geo-fencing, dashboard patroli Satlinmas, sistem aduan masyarakat, monitoring titik rawan, ticketing laporan digital, dan distribusi notifikasi cepat lintas instansi.
 
-# ── SEJARAH & LEGALITAS ──────────────────────────────────────────────────────
+Nama SIPEDAS berasal dari kata “Sapa Pedestrian” yang menggambarkan pelayanan humanis kepada masyarakat pengguna ruang publik di kawasan pedestrian Ponorogo.
 
-Fase Inisiasi dan Pembentukan Satgas Linmas Pedestrian dimulai pada tahun 2024. Beranjak dari tingginya volume warga yang menikmati fasilitas pedestrian, muncul ekses negatif berupa parkir liar, PKL yang memakan bahu jalan, pengamen dan pengemis yang mengganggu, hingga masalah sosial lainnya. Merespons hal tersebut, Satpol PP Ponorogo membentuk Satgas khusus. Legalitas dan mandat operasional pasukan ini dikukuhkan secara resmi melalui Surat Keputusan (SK) Bupati Ponorogo Tahun 2024.
+SIPEDAS dikembangkan untuk mendukung transformasi digital Satpol PP Kabupaten Ponorogo menuju konsep Smart City dan Smart Public Safety System.
 
-Fase Integrasi Digital dan Kolaborasi Sektoral dimulai tahun 2025. Operasional konvensional diubah menjadi operasi cerdas (smart operation). Melalui peluncuran SIPEDAS, program ini tidak lagi berdiri sendiri melainkan bertransformasi menjadi pusat koordinasi terpadu yang menghubungkan Satpol PP dengan elemen kewilayahan (Kelurahan) dan instansi samping (Kepolisian dan Dinas Sosial). Dasar hukum pelaksanaannya tertuang resmi dalam SK Bupati Ponorogo tahun 2024, dan mulai 2025 semakin modern berkat integrasi sistem SIPEDAS.
+Website SIPEDAS dapat diakses masyarakat umum untuk melihat CCTV, informasi patroli, peta kawasan, layanan aduan, dan informasi Satgas Linmas Pedestrian.
 
-# ── TOKOH & PEMRAKARSA ───────────────────────────────────────────────────────
+SIPEDAS dikembangkan dan dikelola oleh Bidang SDA dan Perlindungan Masyarakat Satpol PP Kabupaten Ponorogo.
 
-Bapak Erry Setiyoso Birowo, S.P. adalah Kepala Bidang SDA Linmas Satpol PP Ponorogo, sekaligus inisiator dan pemrakarsa makro program Satgas Linmas Pedestrian. Beliau beserta Tim Bidang Linmas mendesain arsitektur kebijakan, merumuskan standar operasional, mengamankan payung hukum (SK Bupati), dan membangun jembatan diplomasi lintas sektoral dengan Kepolisian, Dinas Sosial, dan Kelurahan. Beliau memastikan bahwa setiap personel di lapangan memiliki panduan tugas yang humanis namun tetap berwibawa.
+SIPEDAS mendukung konsep kota humanis, modern, tertib, aman, nyaman, dan ramah pejalan kaki.
 
-Bapak Ahmad Abdul Basith, S.Tr.IP. adalah Polisi Pamong Praja Ahli Pertama sekaligus Penanggung Jawab Digital SIPEDAS. Beliau adalah kreator dan pengembang ekosistem digital SIPEDAS, memformulasikan sistem dari tahapan rancang bangun hingga implementasi lapangan. Karyanya memastikan bahwa manajemen data, titik absensi berbasis koordinat GPS, hingga alur pelaporan insiden dapat terdistribusi otomatis kepada pemangku kepentingan yang tepat dalam hitungan detik. Beliau juga yang mengembangkan website SIPEDAS yang bisa diakses masyarakat umum.
 
-# ── SDM & PERSONEL ───────────────────────────────────────────────────────────
+# ───────────────── SATPOL PP PONOROGO ─────────────────
 
-Pasukan inti yang diterjunkan untuk patroli kawasan pedestrian adalah anggota Satlinmas dari tingkat Kelurahan se-Kabupaten Ponorogo. Pelibatan Linmas Kelurahan memberikan keuntungan taktis karena mereka memiliki pengenalan medan (local wisdom) yang kuat, kemampuan komunikasi persuasif dengan warga lokal, serta memupuk rasa memiliki (sense of belonging) dari masyarakat terhadap keindahan kotanya sendiri. Mereka bertugas secara bergilir (shift) berdasarkan jadwal yang dikelola secara otomatis melalui SIPEDAS.
+Satuan Polisi Pamong Praja Kabupaten Ponorogo adalah perangkat daerah yang bertugas menegakkan Peraturan Daerah (Perda), menyelenggarakan ketertiban umum dan ketenteraman masyarakat, serta perlindungan masyarakat.
 
-Satgas Linmas Pedestrian beroperasi 24 jam penuh dengan sistem piket bergantian. Shift Pagi berlangsung pukul 07.00 hingga 14.00 WIB, Shift Siang pukul 14.00 hingga 21.00 WIB, dan Shift Malam pukul 21.00 hingga 07.00 WIB. Nomor WhatsApp petugas piket aktif diperbarui setiap hari sesuai jadwal dan dapat diakses melalui sistem SIPEDAS.
+Alamat Kantor Satpol PP Kabupaten Ponorogo berada di Jalan Trunojoyo Nomor 147, Area Sawah, Kauman, Kecamatan Ponorogo, Kabupaten Ponorogo, Jawa Timur 63419.
 
-# ── KAWASAN OPERASI (RING 1) ─────────────────────────────────────────────────
+Kantor Satpol PP Ponorogo menjadi pusat koordinasi pengamanan kota, pembinaan Satlinmas, penanganan ketertiban umum, pengamanan kegiatan pemerintahan, pengendalian operasi lapangan, dan pengawasan kawasan pedestrian.
 
-Operasi penyisiran, pengawasan, dan penjagaan difokuskan secara intensif pada lima urat nadi perkotaan Ponorogo yang disebut Ring 1 Pedestrian. Pertama, Jalan Soekarno Hatta sebagai titik gerbang kedatangan dan mobilitas tinggi. Kedua, Jalan HOS Cokroaminoto sebagai pusat keramaian utama dan etalase wisata pedestrian, kawasan ikonik mirip Malioboro Yogyakarta. Ketiga, Jalan Jenderal Sudirman sebagai sentra bisnis dan titik rawan penumpukan parkir serta PKL. Keempat, Jalan Urip Sumoharjo sebagai area trotoar estetik yang rentan terhadap penyalahgunaan ruang publik. Kelima, Jalan Diponegoro sebagai kawasan pendukung dan jalur vital penghubung tata kota.
+Bidang utama di Satpol PP Ponorogo meliputi Bidang Penegakan Perda, Bidang Ketertiban Umum dan Ketenteraman Masyarakat, Bidang Sumber Daya Aparatur dan Perlindungan Masyarakat, serta Bidang Operasional dan Pengendalian.
 
-# ── WAKTU OPERASI ────────────────────────────────────────────────────────────
+Satpol PP Ponorogo juga melakukan koordinasi lintas instansi dengan Polres Ponorogo, Kodim, Dinas Sosial, Dinas Perhubungan, BPBD, Pemerintah Kecamatan, Pemerintah Kelurahan, dan organisasi masyarakat.
 
-Puncak arus kunjungan masyarakat terjadi pada hari libur, sehingga Satgas Linmas dipusatkan pada waktu strategis. Hari reguler operasi intensif adalah setiap Jumat Malam (Malam Sabtu) dan Sabtu Malam (Malam Minggu). Fokus waktu dimulai dari jam sibuk setelah Magrib hingga area dinyatakan kondusif pada tengah malam. Namun pengawasan tetap berjalan 24 jam setiap hari melalui sistem piket.
+Satpol PP Ponorogo aktif melakukan pengamanan event daerah, patroli kota, pengawasan PKL, pengawasan parkir liar, pengamanan Car Free Day, penertiban reklame, pengawasan ruang publik, dan pembinaan Satlinmas.
 
-# ── KOLABORASI LINTAS INSTANSI ───────────────────────────────────────────────
+Media sosial resmi Satpol PP Ponorogo dapat diakses melalui Instagram @satpolpp_ponorogo dan TikTok @satpolpp.ponorogo.
 
-Satgas Linmas Pedestrian terintegrasi langsung dengan Kepolisian Republik Indonesia (Polri) untuk penanganan tindak pidana kriminal. Jika anggota Linmas Pedestrian menemukan indikasi kejahatan jalanan seperti pencopetan, curanmor, perkelahian atau tawuran, vandalisme berat, atau premanisme, Linmas akan langsung melaporkan via SIPEDAS. Laporan berstatus Bantuan Merah ini diteruskan ke unit patroli Kepolisian terdekat agar pelaku dapat langsung ditindak sesuai hukum pidana. Linmas berfungsi sebagai mata dan telinga, sementara Kepolisian sebagai eksekutor hukum.
 
-Satgas Linmas Pedestrian juga terintegrasi dengan Dinas Sosial (Dinsos) Kabupaten Ponorogo untuk penanganan Penyandang Masalah Kesejahteraan Sosial (PMKS) seperti pengamen, pengemis, anak jalanan, dan gelandangan. Pedestrian kerap menjadi titik kumpul pengamen dan pengemis yang berpotensi mengganggu kenyamanan pengunjung. Penanganannya mengedepankan sisi kemanusiaan — pelaporan via SIPEDAS akan memanggil Tim Dinsos atau Tim Reaksi Cepat Satpol PP. Pelaku PMKS tidak dipidana, melainkan dibawa ke Dinsos atau shelter terkait untuk diberikan pembinaan, pendataan, dan solusi sosial.
+# ───────────────── SATGAS LINMAS PEDESTRIAN ─────────────────
 
-# ── FITUR APLIKASI SIPEDAS ───────────────────────────────────────────────────
+Satgas Linmas Pedestrian adalah pasukan pengamanan kawasan pedestrian yang dibentuk untuk menjaga keamanan, kenyamanan, ketertiban, kebersihan, dan estetika kawasan pedestrian Kabupaten Ponorogo.
 
-Aplikasi SIPEDAS memiliki modul Geo-Fencing Attendance, yaitu sistem absensi berbasis GPS di mana Linmas Kelurahan hanya bisa melakukan absen masuk atau keluar tugas jika GPS ponsel mereka berada tepat di kawasan pedestrian yang telah di-plotting. Ini memastikan kehadiran fisik petugas di lapangan.
+Satgas Linmas Pedestrian berada di bawah koordinasi Satpol PP Kabupaten Ponorogo, khususnya Bidang SDA dan Perlindungan Masyarakat.
 
-Sistem Triase Laporan Lintas Sektor SIPEDAS memiliki kategori pelaporan insiden yang cerdas. Kategori pertama adalah ketertiban umum yang masuk ke Command Center Satpol PP. Kategori kedua adalah PMKS atau pengamen yang notifikasi tembusannya terintegrasi dengan penanganan Dinas Sosial. Kategori ketiga adalah kriminalitas yang memicu notifikasi kedaruratan untuk eskalasi ke Kepolisian.
+Program Satgas Linmas Pedestrian dibentuk karena meningkatnya aktivitas masyarakat di kawasan pedestrian yang memunculkan berbagai gangguan ketertiban umum seperti parkir liar, PKL liar, pengamen, pengemis, vandalisme, keramaian tidak tertib, dan penyalahgunaan trotoar.
 
-SIPEDAS menyediakan fitur CCTV real-time untuk pemantauan kawasan pedestrian 24 jam. Warga dapat mengakses tampilan live streaming langsung melalui browser di halaman utama website SIPEDAS. Rekaman tersimpan untuk keperluan investigasi jika terjadi insiden.
+Legalitas pembentukan Satgas Linmas Pedestrian tertuang dalam Surat Keputusan Bupati Ponorogo Tahun 2024.
 
-Peta Kerawanan SIPEDAS adalah visualisasi geospasial titik-titik rawan di kawasan pedestrian Ponorogo. Peta ini menampilkan titik rawan tinggi (merah), titik rawan sedang (kuning), dan area aman (hijau). Warga dapat mengakses peta ini di halaman utama SIPEDAS dan mengklik marker untuk melihat detail setiap titik rawan.
+Satgas Linmas Pedestrian mulai aktif beroperasi secara penuh pada tahun 2025 bersamaan dengan implementasi sistem SIPEDAS.
 
-# ── MEDIA SOSIAL & KANAL INFORMASI ───────────────────────────────────────────
+Satgas Linmas Pedestrian menggunakan pendekatan humanis, persuasif, edukatif, dan preventif dalam menjaga kawasan publik.
 
-Program Satgas Linmas Pedestrian dan SIPEDAS dapat diikuti perkembangannya melalui media sosial resmi Satpol PP Kabupaten Ponorogo. Instagram resmi Satpol PP Ponorogo dapat diakses di akun @satpolpp_ponorogo. TikTok resmi Satpol PP Ponorogo dapat diikuti di akun @satpolpp.ponorogo. Kedua akun ini secara aktif membagikan konten kegiatan patroli, penertiban, dan informasi program pedestrian terbaru.
+Tugas utama Satgas Linmas Pedestrian adalah patroli kawasan pedestrian, pengawasan fasilitas umum, pengamanan ruang publik, penertiban pelanggaran ringan, pengawasan parkir liar, pengawasan PKL, pengawasan PMKS, serta pelaporan cepat kejadian di kawasan pedestrian.
 
-Untuk informasi resmi Pemerintah Kabupaten Ponorogo secara umum, masyarakat dapat mengikuti akun Instagram @pemkabponorogo dan website resmi ponorogo.go.id. Informasi terkait program pedestrian dan kegiatan Satlinmas juga kerap dibagikan melalui kanal-kanal resmi tersebut.
+Satgas Linmas Pedestrian juga menjadi mata dan telinga pemerintah daerah dalam memonitor kondisi keamanan kawasan perkotaan Ponorogo.
 
-Masyarakat yang ingin berinteraksi langsung, melaporkan kejadian, atau mendapatkan informasi terkini dapat menghubungi petugas piket Satlinmas melalui nomor WhatsApp yang tersedia di sistem SIPEDAS. Nomor ini diperbarui setiap hari sesuai jadwal piket aktif.
 
-# ── PROGRAM FACE-OFF PEDESTRIAN ──────────────────────────────────────────────
+# ───────────────── TOKOH & PEMRAKARSA ─────────────────
 
-Program Face-off Pedestrian Ponorogo adalah program revitalisasi trotoar yang mengubah kawasan pejalan kaki menjadi ruang publik yang humanis, estetik, dan inklusif. Program ini terinspirasi dari konsep Malioboro Yogyakarta — kawasan pejalan kaki yang hidup, tertata, dan menjadi ikon wisata. Pemerintah Kabupaten Ponorogo melalui program ini menyulap beberapa ruas jalan utama menjadi jalur pejalan kaki yang lebar, bersih, dan dilengkapi fasilitas modern.
+Bapak Erry Setiyoso Birowo, S.P. adalah Kepala Bidang SDA dan Linmas Satpol PP Kabupaten Ponorogo sekaligus pemrakarsa utama program Satgas Linmas Pedestrian.
 
-Fasilitas yang dibangun dalam program Face-off Pedestrian meliputi bangku taman yang tersebar di sepanjang jalur pejalan kaki, lampu klasik bergaya vintage untuk penerangan estetik, pepohonan rindang sebagai peneduh alami, guiding block (jalur khusus tunanetra) untuk mendukung aksesibilitas difabel, drainase tertutup untuk mencegah genangan air, dan kamera CCTV untuk pemantauan keamanan 24 jam.
+Bapak Erry Setiyoso Birowo, S.P. berperan dalam penyusunan kebijakan, penguatan koordinasi lintas instansi, penyusunan SOP, pembentukan pola patroli, penguatan legalitas program, dan pembinaan personel Satlinmas Pedestrian.
 
-Titik pembangunan utama program Face-off Pedestrian berfokus pada tiga ruas jalan. Pertama, Jalan HOS Cokroaminoto sebagai kawasan ikonik utama dengan bangku taman, lampu klasik, dan pepohonan rindang. Kedua, Jalan Jenderal Sudirman dengan perluasan bahu pejalan kaki dan penataan drainase tertutup. Ketiga, Jalan Gajah Mada dengan jalur khusus tunanetra (guiding block) dan penataan PKL.
+Bapak Ahmad Abdul Basith, S.Tr.IP. adalah Polisi Pamong Praja Ahli Pertama sekaligus pengembang dan penanggung jawab digital SIPEDAS.
 
-# ── JADWAL & ATURAN KAWASAN ──────────────────────────────────────────────────
+Bapak Ahmad Abdul Basith, S.Tr.IP. bertanggung jawab dalam pengembangan website SIPEDAS, dashboard monitoring, geo-fencing attendance, sistem aduan digital, sistem tiket laporan, integrasi CCTV, monitoring GPS personel, dan integrasi lintas sektor.
 
-Car Free Day (CFD) Ponorogo diselenggarakan setiap Hari Minggu pukul 05.00 hingga 09.00 WIB di Jalan Suromenggolo dan kawasan Alun-Alun Ponorogo. Selama CFD berlangsung, kendaraan bermotor dilarang melintas. Tersedia area olahraga, senam, jalan sehat, stand kuliner, dan hiburan keluarga. Pengawasan dilakukan oleh Satlinmas dan Satpol PP.
+SIPEDAS merupakan hasil transformasi digital pengamanan kawasan pedestrian berbasis teknologi yang dikembangkan oleh Bapak Ahmad Abdul Basith, S.Tr.IP.
 
-Jam operasional PKL (Pedagang Kaki Lima) di kawasan Jalan HOS Cokroaminoto adalah pukul 16.00 hingga 23.00 WIB, sesuai Peraturan Daerah (Perda) Kabupaten Ponorogo. PKL wajib menjaga kebersihan area sekitar lapak dan tidak menggunakan badan trotoar untuk berjualan. Pelanggaran jam operasional atau zona PKL dapat dilaporkan ke Satlinmas atau Satpol PP.
 
-Aturan parkir di kawasan pedestrian Ponorogo melarang keras parkir di atas trotoar dan parkir yang menghalangi jalur pejalan kaki. Warga diwajibkan menggunakan kantong parkir resmi di sirip-sirip jalan (persimpangan kecil) atau area parkir terpadu di sekitar kawasan. Kendaraan yang melanggar dapat ditindak oleh petugas Satpol PP.
+# ───────────────── SDM & PERSONEL ─────────────────
 
-# ── SISTEM ADUAN & TIKET ─────────────────────────────────────────────────────
+Personel utama Satgas Linmas Pedestrian berasal dari anggota Satlinmas Kelurahan se-Kabupaten Ponorogo.
 
-Sistem aduan SIPEDAS memungkinkan masyarakat melaporkan berbagai masalah di kawasan pedestrian secara digital. Kategori aduan yang tersedia adalah: Fasilitas Publik Rusak (trotoar berlubang, bangku rusak, lampu mati, guiding block rusak), Gangguan Pengamen (pengamen yang mengganggu atau memaksa), Gangguan Pengemis (pengemis yang mengganggu kenyamanan), Pelanggaran Ketertiban (parkir liar, PKL melanggar jam atau zona, vandalisme), dan Indikasi Tindak Kejahatan (pencurian, pencopetan, tindakan mencurigakan).
+Pelibatan Satlinmas Kelurahan memberikan keuntungan karena anggota memahami karakter wilayah, budaya lokal, pola kerawanan kawasan, serta memiliki komunikasi yang dekat dengan masyarakat.
 
-Setiap laporan aduan yang masuk ke sistem SIPEDAS akan mendapatkan nomor tiket unik dengan format ADU-YYMMDD-XXXX, misalnya ADU-260512-1234. Nomor tiket ini digunakan untuk memantau status tindak lanjut laporan. Status laporan dapat berupa Baru (laporan diterima, belum diproses), Diproses (sedang ditangani petugas), Selesai (laporan telah ditindaklanjuti), atau Ditolak (laporan tidak dapat diproses dengan keterangan alasan).
+Satgas Linmas Pedestrian bekerja menggunakan sistem shift selama 24 jam.
 
-Untuk mengecek status laporan, masyarakat cukup mengetikkan nomor tiket (contoh: ADU-260512-1234) langsung di kolom chat asisten SIPEDAS. Sistem akan otomatis menampilkan status terkini, catatan petugas, dan waktu terakhir diperbarui.
+Shift pagi dimulai pukul 07.00 WIB sampai 14.00 WIB.
 
-# ── PERTANYAAN UMUM (FAQ) ────────────────────────────────────────────────────
+Shift siang dimulai pukul 14.00 WIB sampai 21.00 WIB.
 
-Tugas utama Satgas Linmas Pedestrian adalah melakukan patroli, penjagaan, serta memberikan teguran persuasif untuk menjaga kawasan pedestrian di Ponorogo agar bersih, aman, nyaman, dan terbebas dari pelanggaran ketertiban umum seperti parkir sembarangan dan PKL liar.
+Shift malam dimulai pukul 21.00 WIB sampai 07.00 WIB.
 
-Jika Satgas Linmas menemukan pengamen atau pengemis di pedestrian, Satgas akan melakukan pendekatan persuasif dan melaporkannya ke dalam sistem SIPEDAS. Program ini telah terintegrasi dengan Dinas Sosial (Dinsos). Pengamen atau pengemis yang termasuk PMKS akan didata dan ditangani secara humanis oleh Dinsos untuk diberikan pembinaan dan solusi sosial.
+Jadwal piket dan pembagian personel diatur melalui sistem SIPEDAS secara digital.
 
-Jika terjadi copet, tawuran, atau tindak kriminal di kawasan pedestrian, Satgas Linmas Pedestrian bertindak sebagai pelapor cepat. Karena program ini terintegrasi dengan institusi Kepolisian, Linmas akan segera melapor melalui jalur komando darurat SIPEDAS, sehingga pihak Kepolisian dapat langsung datang untuk menindak para pelaku kriminal.
+Nomor WhatsApp petugas piket diperbarui setiap hari dan tersedia melalui website SIPEDAS.
 
-Program Satgas Linmas Pedestrian diprakarsai oleh Bapak Erry Setiyoso Birowo, S.P. selaku Kepala Bidang SDA Linmas Satpol PP Ponorogo. Sedangkan transformasi digitalnya melalui sistem SIPEDAS diciptakan dan dikelola oleh Bapak Ahmad Abdul Basith, S.Tr.IP., selaku Polisi Pamong Praja Ahli Pertama.
+Petugas wajib melakukan absensi menggunakan sistem GPS geo-fencing untuk memastikan kehadiran fisik di kawasan pedestrian.
 
-Dasar hukum pelaksanaan Satgas Linmas Pedestrian telah diinisiasi dan tertuang resmi dalam Surat Keputusan (SK) Bupati Ponorogo pada tahun 2024. Mulai tahun 2025, pelaksanaannya semakin modern berkat integrasi sistem SIPEDAS yang dikembangkan oleh Bapak Ahmad Abdul Basith.
 
-Masyarakat yang ingin menghubungi petugas Satlinmas secara langsung dapat menggunakan fitur WhatsApp piket yang tersedia di sistem SIPEDAS. Nomor petugas piket aktif berubah setiap hari sesuai jadwal dan dapat diakses melalui tombol chat di pojok kanan bawah halaman SIPEDAS.
+# ───────────────── KAWASAN RING 1 PEDESTRIAN ─────────────────
+
+Kawasan Ring 1 Pedestrian merupakan area prioritas patroli dan pengawasan intensif Satgas Linmas Pedestrian.
+
+Jalan HOS Cokroaminoto merupakan pusat utama pedestrian Ponorogo dan menjadi ikon wisata pedestrian malam. Kawasan ini memiliki aktivitas masyarakat paling tinggi terutama pada malam hari dan akhir pekan.
+
+Jalan HOS Cokroaminoto memiliki fasilitas bangku taman, lampu klasik, guiding block difabel, CCTV, pepohonan rindang, drainase tertutup, trotoar lebar, area duduk publik, dan titik kuliner malam.
+
+Jalan Soekarno Hatta merupakan jalur mobilitas utama dan gerbang kawasan kota yang memiliki intensitas lalu lintas tinggi serta aktivitas ekonomi yang padat.
+
+Jalan Jenderal Sudirman merupakan kawasan bisnis dan perdagangan yang rawan parkir liar, kemacetan lokal, dan penumpukan kendaraan.
+
+Jalan Urip Sumoharjo merupakan kawasan pedestrian estetik dengan fokus pengawasan terhadap vandalisme, kebersihan, dan penyalahgunaan fasilitas publik.
+
+Jalan Diponegoro merupakan kawasan penghubung strategis pusat kota dengan fokus pengawasan parkir liar dan aktivitas malam.
+
+Jalan Gajah Mada menjadi salah satu titik pengembangan Face Off Pedestrian dengan penataan guiding block dan penataan kawasan PKL.
+
+Kawasan Ring 1 Pedestrian menjadi prioritas utama monitoring CCTV dan patroli malam Satgas Linmas.
+
+
+# ───────────────── FACE OFF PEDESTRIAN ─────────────────
+
+Program Face Off Pedestrian Ponorogo merupakan program revitalisasi trotoar dan ruang publik perkotaan yang mengusung konsep pedestrian modern seperti Malioboro Yogyakarta.
+
+Tujuan program Face Off Pedestrian adalah menciptakan ruang publik yang aman, tertib, estetik, nyaman, humanis, inklusif, dan ramah wisatawan.
+
+Fasilitas dalam program Face Off Pedestrian meliputi trotoar modern, bangku pedestrian, lampu vintage, pepohonan peneduh, guiding block tunanetra, CCTV pengawas, drainase tertutup, tempat duduk publik, dan area estetika kota.
+
+Program Face Off Pedestrian mendukung peningkatan ekonomi masyarakat melalui kawasan UMKM dan wisata malam perkotaan.
+
+Kawasan Face Off Pedestrian paling ramai pada Jumat malam, Sabtu malam, malam minggu, hari libur nasional, dan event daerah.
+
+
+# ───────────────── OPERASI JUMAT & SABTU MALAM ─────────────────
+
+Operasi intensif Satgas Linmas Pedestrian dilaksanakan setiap Jumat malam dan Sabtu malam.
+
+Fokus pengamanan dimulai setelah Magrib hingga tengah malam atau sampai kawasan dinyatakan kondusif.
+
+Aktivitas pengamanan meliputi patroli jalan kaki, monitoring CCTV, pengawasan keramaian, pengawasan fasilitas umum, penertiban parkir liar, pengawasan PKL, monitoring pengamen, pengawasan PMKS, dan patroli keamanan kawasan.
+
+Titik paling ramai saat malam minggu berada di Jalan HOS Cokroaminoto dan Jalan Jenderal Sudirman.
+
+Petugas melakukan patroli mobile dan patroli dialogis untuk menjaga kenyamanan pengunjung pedestrian.
+
+
+# ───────────────── FITUR SIPEDAS ─────────────────
+
+SIPEDAS memiliki fitur Geo-Fencing Attendance yaitu sistem absensi GPS yang memastikan petugas benar-benar berada di kawasan tugas saat melakukan absensi.
+
+SIPEDAS memiliki dashboard Command Center untuk monitoring personel, patroli, laporan masyarakat, CCTV, GPS petugas, dan titik rawan kawasan.
+
+SIPEDAS memiliki sistem ticketing laporan digital dengan format nomor tiket ADU-YYMMDD-XXXX.
+
+Contoh nomor tiket SIPEDAS adalah ADU-260512-1234.
+
+Kategori aduan SIPEDAS meliputi parkir liar, PKL liar, pengamen, pengemis, vandalisme, fasilitas rusak, kriminalitas, lampu mati, trotoar rusak, dan gangguan ketertiban umum.
+
+Status laporan SIPEDAS terdiri dari Baru, Diproses, Selesai, dan Ditolak.
+
+SIPEDAS menyediakan fitur CCTV real-time yang dapat diakses masyarakat untuk memantau kondisi pedestrian secara langsung.
+
+SIPEDAS memiliki peta kerawanan digital dengan indikator warna merah untuk rawan tinggi, kuning untuk rawan sedang, dan hijau untuk area aman.
+
+SIPEDAS mendukung integrasi notifikasi cepat lintas sektor untuk mempercepat respon kejadian lapangan.
+
+
+# ───────────────── KOLABORASI LINTAS INSTANSI ─────────────────
+
+Satgas Linmas Pedestrian terintegrasi dengan Kepolisian Republik Indonesia untuk penanganan tindak kriminal seperti pencopetan, curanmor, tawuran, premanisme, kekerasan, dan vandalisme berat.
+
+Jika ditemukan indikasi kriminalitas, petugas Linmas akan mengirim laporan Bantuan Merah melalui SIPEDAS untuk diteruskan ke unit patroli Kepolisian terdekat.
+
+Satgas Linmas Pedestrian juga terintegrasi dengan Dinas Sosial Kabupaten Ponorogo untuk penanganan PMKS seperti pengamen, pengemis, anak jalanan, dan gelandangan.
+
+Pendekatan terhadap PMKS dilakukan secara humanis dan persuasif melalui pendataan, pembinaan, rehabilitasi sosial, dan penanganan shelter.
+
+Satpol PP Ponorogo juga berkoordinasi dengan Dinas Perhubungan untuk pengaturan parkir, pengaturan arus kendaraan, dan pengamanan event kawasan pedestrian.
+
+
+# ───────────────── CAR FREE DAY ─────────────────
+
+Car Free Day Ponorogo dilaksanakan setiap hari Minggu pukul 05.00 WIB sampai 09.00 WIB.
+
+Lokasi Car Free Day berada di Jalan Suromenggolo dan kawasan Alun-Alun Ponorogo.
+
+Selama CFD berlangsung kendaraan bermotor dilarang melintas di area utama.
+
+Aktivitas CFD meliputi olahraga, jalan sehat, senam, UMKM kuliner, hiburan keluarga, kampanye kesehatan, dan aktivitas komunitas.
+
+Satgas Linmas Pedestrian membantu pengamanan, pengawasan keramaian, pengaturan pengunjung, dan pengawasan kendaraan saat CFD berlangsung.
+
+
+# ───────────────── ATURAN PKL & PARKIR ─────────────────
+
+PKL di kawasan pedestrian wajib mematuhi zona dan jam operasional sesuai ketentuan daerah.
+
+Jam operasional PKL di kawasan HOS Cokroaminoto berlangsung pukul 16.00 WIB sampai 23.00 WIB.
+
+PKL dilarang menggunakan badan trotoar utama dan guiding block difabel.
+
+PKL wajib menjaga kebersihan kawasan dan tidak meninggalkan sampah setelah berjualan.
+
+Parkir di atas trotoar dan jalur pedestrian dilarang keras.
+
+Masyarakat diwajibkan menggunakan kantong parkir resmi dan area parkir terpadu.
+
+Pelanggaran parkir liar dapat ditindak oleh Satpol PP dan petugas terkait.
+
+
+# ───────────────── SISTEM ADUAN ─────────────────
+
+Masyarakat dapat melaporkan kejadian melalui sistem SIPEDAS secara online.
+
+Kategori aduan meliputi:
+- Parkir liar.
+- PKL liar.
+- Pengamen mengganggu.
+- Pengemis.
+- Fasilitas rusak.
+- Lampu mati.
+- Vandalisme.
+- Tindak kriminal.
+- Trotoar rusak.
+- Gangguan ketertiban umum.
+
+Setiap laporan mendapatkan nomor tiket digital untuk monitoring tindak lanjut.
+
+Masyarakat dapat mengecek status laporan langsung melalui chatbot SIPEDAS menggunakan nomor tiket aduan.
+
+
+# ───────────────── MEDIA SOSIAL & INFORMASI ─────────────────
+
+Instagram resmi Satpol PP Ponorogo adalah @satpolpp_ponorogo.
+
+TikTok resmi Satpol PP Ponorogo adalah @satpolpp.ponorogo.
+
+Instagram resmi Pemerintah Kabupaten Ponorogo adalah @pemkabponorogo.
+
+Website resmi Pemerintah Kabupaten Ponorogo adalah ponorogo.go.id.
+
+Informasi patroli, kegiatan penertiban, pengamanan pedestrian, dan kegiatan Satlinmas rutin dipublikasikan melalui media sosial resmi tersebut.
+
+
+# ───────────────── FAQ ─────────────────
+
+Tugas utama Satgas Linmas Pedestrian adalah menjaga keamanan, kenyamanan, ketertiban, dan kebersihan kawasan pedestrian Ponorogo.
+
+Jika terdapat pengamen atau pengemis, petugas akan melakukan pendekatan persuasif dan berkoordinasi dengan Dinas Sosial.
+
+Jika terjadi tindak kriminal, petugas Linmas akan melaporkan melalui SIPEDAS dan diteruskan ke Kepolisian.
+
+Program Satgas Linmas Pedestrian diprakarsai oleh Bapak Erry Setiyoso Birowo, S.P.
+
+Sistem SIPEDAS dikembangkan oleh Bapak Ahmad Abdul Basith, S.Tr.IP.
+
+Dasar hukum program tertuang dalam SK Bupati Ponorogo Tahun 2024.
+
+Nomor WhatsApp petugas piket dapat diakses melalui tombol kontak pada website SIPEDAS.
+
+SIPEDAS mendukung pengembangan Smart City dan sistem pengamanan ruang publik berbasis digital di Kabupaten Ponorogo.
+
+
+# ════════════════════════════════════════════════════════════════════════════
+# END OF DATABASE
+# SIPEDAS — SATGAS LINMAS PEDESTRIAN PONOROGO
+# ════════════════════════════════════════════════════════════════════════════
+```
